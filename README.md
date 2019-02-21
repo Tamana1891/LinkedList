@@ -1,0 +1,2 @@
+# LinkedList
+solution of linkedlist
